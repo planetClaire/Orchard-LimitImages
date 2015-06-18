@@ -1,0 +1,13 @@
+﻿Name: LimitImages
+AntiForgery: enabled
+Author: Zeta Tech
+Website: http://zeta.com.au
+Version: 1.0
+OrchardVersion: 1.9
+Description: A token to downsize images larger than a certain size, for example to use in an rss feed. Makes use of ImageResizer's Url API.
+Features:
+    LimitImages:
+		Name: Limit images
+        Description: A token to downsize images larger than a certain size, for example to use in an rss feed. Makes use of ImageResizer's Url API.
+		Category: Content
+		Dependencies: Orchard.Tokens
